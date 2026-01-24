@@ -1,4 +1,4 @@
-# ECE-310-Digital-Signal-Processing
+# Digital Signal Processing
 
 ## Overview
 Discrete-time signal processing theory and design: transforms, spectral analysis, sampling/multirate processing, filter design/realization, quantization effects, and media-signal applications.
